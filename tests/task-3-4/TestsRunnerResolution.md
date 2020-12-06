@@ -19,7 +19,7 @@ Please complete the following:
 ## Task 3 and 4: Resolution
 ### Code Part - Introduction
 
-In this current repo you will be able to test Hopin's challenge using [Cypress](https://www.cypress.io/). If you need to understand a bit more about Cypress, the API documentation is available [here](https://docs.cypress.io/api/api/table-of-contents.html).
+In this current repo you will be able to test this challenge using [Cypress](https://www.cypress.io/). If you need to understand a bit more about Cypress, the API documentation is available [here](https://docs.cypress.io/api/api/table-of-contents.html).
 
 ##### Dependencies
 As mentioned on [TestEnvironment.md] document. The only pre-requisite to run this app is to have npm and Node.js installed in your machine. For instructions on how to install, go to https://nodejs.org/en/
@@ -44,7 +44,7 @@ After the completed node's installation, you will need to clone this current rep
 > ```
 
 ### Installing the dependencies 
-Open a new terminal and navigate to the tests folder and install all dev dependencies using:
+Open a new terminal and navigate to the tests folder inside the project test-resolution and install all dev dependencies using the following commands:
 
 > ```bash
 > cd /tests
@@ -57,9 +57,9 @@ Open a new terminal and navigate to the tests folder and install all dev depende
 - You will see the following messages using npm: 
 > ```bash
 > npm install
-> yarn@1.22.10 preinstall /Users/williamoliveira/Documents/Other/test-qa/testingVersion/test-resolution/tests/node_modules/yarn
+> yarn@1.22.10 preinstall test-resolution/tests/node_modules/yarn
 > :; (node ./preinstall.js > /dev/null 2>&1 || true)
-> cypress@6.0.1 postinstall /Users/williamoliveira/Documents/Other/test-qa/testingVersion/test-resolution/tests/node_modules/cypress
+> cypress@6.0.1 postinstall test-resolution/tests/node_modules/cypress
 > node index.js --exec install
 Cypress 6.0.1 is installed
 npm WARN test-and-automation-challenge-resolution@1.0.0 No repository field.

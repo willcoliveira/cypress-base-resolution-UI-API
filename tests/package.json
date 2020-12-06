@@ -1,7 +1,7 @@
 {
   "name": "test-and-automation-challenge-resolution",
   "version": "1.0.0",
-  "description": "test and automation challenge resolution for hopin's tasks.",
+  "description": "test and automation challenge resolution for tasks.",
   "main": "index.js",
   "scripts": {
     " --- CYPRESS SCRIPTS ---- ": "",
